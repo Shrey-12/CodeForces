@@ -1,0 +1,1 @@
+{"name":"Local: FirstRepeatingElement","url":"c:\\Users\\shrey\\OneDrive\\Documents\\CodeForces\\FirstRepeatingElement.cpp","tests":[{"id":1702198168506,"input":"7\n1 5 3 4 3 5 6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shrey\\OneDrive\\Documents\\CodeForces\\FirstRepeatingElement.cpp","group":"local","local":true}
